@@ -12,4 +12,3 @@ This has two directories
 you will have to know and understand django and python process to proceed here, suggest only the files
 in openeats need to modified.
 
-auth:Pattern
